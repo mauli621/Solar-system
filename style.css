@@ -1,0 +1,191 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+    background-color: #000;
+}
+
+h1{
+    color:#fff;
+    font-size: 40px;
+    position: absolute;
+    top:250px;
+    left:1050px;
+}
+
+.sun{
+    width:200px;
+    height:200px;
+    background-image: linear-gradient(to right,rgb(250, 182, 22),rgb(243, 80, 11));
+    border-radius: 50%;
+    position: absolute;
+    top:250px;
+}
+
+.mercury{
+    width:50px;
+    height:50px;
+    background-color: #f94f11;
+    border-radius: 50%;
+    position: absolute;
+    top:350px;
+    left:250px;
+}
+
+.venus{
+    width:65px;
+    height:65px;
+    background-color: #c7a01e;
+    border-radius: 50%;
+    position:absolute;
+    top:250px;
+    left:290px;
+}
+
+.earth{
+    width:75px;
+    height:75px;
+    background-image: linear-gradient(blue,green);
+    border-radius: 50%;
+    position:absolute;
+    top:310px;
+    left:355px;
+}
+
+.mars{
+    width:45px;
+    height: 45px;
+    background-color: #df1717;
+    border-radius: 50%;
+    position: absolute;
+    top:370px;
+    left:450px;
+}
+
+.jupiter{
+    width:120px;
+    height:120px;
+    background-color: #e1c462;
+    border-radius: 50%;
+    position: absolute;
+    top: 320px;
+    left:530px;
+}
+
+.saturn{
+    width:100px;
+    height: 100px;
+    background-image: linear-gradient(#d3ac5f,rgb(227, 64, 23));
+    border-radius: 50%;
+    position: absolute;
+    top : 250px;
+    left: 670px;
+}
+
+.uranus{
+    width: 60px;
+    height: 60px;
+    background-image: linear-gradient(blue,skyblue);
+    border-radius: 50%;
+    position: absolute;
+    top : 410px;
+    left: 780px;
+}
+
+.neptune{
+    width: 70px;
+    height:70px;
+    background-color: #090f6c;
+    border-radius: 50%;
+    position: absolute;
+    top:280px;
+    left:880px;
+}
+
+.axis1{
+    height:350px;
+    width:450px;
+    border:2px dotted #fff;
+    border-radius: 50%;
+    background-color: transparent;
+    position:absolute;
+    top:129px;
+    left:-170px;
+}
+
+.axis2{
+    height:450px;
+    width:550px;
+    border:2px dotted #fff;
+    border-radius: 50%;
+    background-color: transparent;
+    position:absolute;
+    top:110px;
+    left:-200px;
+}
+
+.axis3{
+    height:600px;
+    width:650px;
+    border:2px dotted #fff;
+    border-radius: 50%;
+    background-color: transparent;
+    position:absolute;
+    top:95px;
+    left:-240px;
+}
+
+.axis4{
+    height:650px;
+    width:750px;
+    border:2px dotted #fff;
+    border-radius: 50%;
+    background-color: transparent;
+    position:absolute;
+    top:86px;
+    left:-270px;
+}
+
+.axis5{
+    height:750px;
+    width:850px;
+    border:2px dotted #fff;
+    border-radius: 50%;
+    background-color: transparent;
+    position:absolute;
+    top:55px;
+    left:-250px;
+}
+
+.axis6{
+    height:900px;
+    width:950px;
+    border:2px dotted #fff;
+    border-radius: 50%;
+    background-color: transparent;
+    position:absolute;
+    top:5px;
+    left:-200px;
+}
+
+.axis7{
+    height:950px;
+    width:1050px;
+    border:2px dotted #fff;
+    border-radius: 50%;
+    background-color: transparent;
+    position:absolute;
+    top:-25px;
+    left:-235px;
+}
+
+.axis8{
+    height:1050px;
+    width:1150px;
+    border:2px dotted #fff;
+    border-radius: 50%;
+    background-color: transparent;
+    position:absolute;
+    top:-55px;
+    left:-200px;
+}
